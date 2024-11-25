@@ -1,0 +1,12 @@
+Source: ros-jazzy-raspimouse-ros2-examples
+Section: misc
+Priority: optional
+Maintainer: RT Corporation <shop@rt-net.jp>
+Build-Depends: debhelper (>= 9.0.0), libopencv-dev, ros-jazzy-ament-cmake, ros-jazzy-ament-lint-auto <!nocheck>, ros-jazzy-ament-lint-common <!nocheck>, ros-jazzy-cv-bridge, ros-jazzy-geometry-msgs, ros-jazzy-hls-lfcd-lds-driver, ros-jazzy-joy-linux, ros-jazzy-nav2-map-server, ros-jazzy-raspimouse, ros-jazzy-raspimouse-msgs, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-rt-usb-9axisimu-driver, ros-jazzy-sensor-msgs, ros-jazzy-slam-toolbox, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-usb-cam, v4l-utils, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-raspimouse-ros2-examples
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libopencv-dev, ros-jazzy-cv-bridge, ros-jazzy-geometry-msgs, ros-jazzy-hls-lfcd-lds-driver, ros-jazzy-joy-linux, ros-jazzy-nav2-map-server, ros-jazzy-raspimouse, ros-jazzy-raspimouse-msgs, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-rt-usb-9axisimu-driver, ros-jazzy-sensor-msgs, ros-jazzy-slam-toolbox, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-usb-cam, v4l-utils, ros-jazzy-ros-workspace
+Description: Raspberry Pi Mouse examples
