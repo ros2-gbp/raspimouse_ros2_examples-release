@@ -1,3 +1,26 @@
+## raspimouse_ros2_examples (jazzy) - 3.0.0-1
+
+The packages in the `raspimouse_ros2_examples` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --track jazzy raspimouse_ros2_examples --edit` on `Tue, 26 Nov 2024 01:08:55 -0000`
+
+The `raspimouse_ros2_examples` package was released.
+
+Version of package(s) in repository `raspimouse_ros2_examples`:
+
+- upstream repository: https://github.com/rt-net/raspimouse_ros2_examples.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `3.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## raspimouse_ros2_examples (humble) - 2.2.1-2
 
 The packages in the `raspimouse_ros2_examples` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble raspimouse_ros2_examples` on `Wed, 28 Aug 2024 01:36:22 -0000`
